@@ -17,6 +17,7 @@ public class Calculator {
 
     public double divide(int a, int b) {
         // TODO: Implement this method
+        // Khang
         return a * 1.0 / b;
     }
 }
